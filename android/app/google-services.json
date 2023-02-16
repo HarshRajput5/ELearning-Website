@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355681786103",
+    "firebase_url": "https://learning-9329e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learning-9329e",
+    "storage_bucket": "learning-9329e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355681786103:android:f79ef29f98f323cd2cdbf2",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355681786103-suva606kld8id5llhsoq07gr52jeiucl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKg8lO_OYhZa-DSwItNpIodDfC5KF0MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355681786103-suva606kld8id5llhsoq07gr52jeiucl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
